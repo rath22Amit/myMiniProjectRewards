@@ -1,4 +1,4 @@
-package com.rewards.dto.ErrorResponse;
+package com.rewards.dto;
 
 import java.util.List;
 
